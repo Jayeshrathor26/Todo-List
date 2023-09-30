@@ -1,0 +1,67 @@
+.main{
+  border: 2px solid black;
+  display: inline-block;
+  width: 300px;
+  height: 300px;
+  position: relative;
+ left: 40%;
+top: 100px;
+background-color: rgb(180, 135, 222);
+
+}
+.heading{
+  display: block;
+ 
+  position: relative;
+  
+  top: 3%;
+  color: white;
+
+ 
+}
+.heading h3{
+  text-align: center;
+
+}
+input{
+  height: 20px;
+  margin-top: 15px;
+  margin-left: 15px;
+  border-radius: 5px;
+  border-color: rgb(177, 133, 218);
+ 
+}
+button{
+  margin-left: 5px;
+  padding: 5px;
+ background-color: rgb(67, 67, 235);
+ color: white;
+
+}
+input:focus{
+  outline: 0;
+}
+.listdata{
+  position: relative;
+  display: inline;
+  left: 41%;
+  top: -100px;
+  padding-right: 150px;
+
+ 
+  border: 2px solid white;
+  background-color: white;
+  color: black;
+  text-align: center;
+ border-radius: 4px;
+
+  
+}
+.remove{
+
+
+  position: relative;
+  display: inline-block;
+  left: 41%;
+  top: -100px;
+}
